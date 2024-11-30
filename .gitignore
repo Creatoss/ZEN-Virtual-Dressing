@@ -1,0 +1,6 @@
+ACGPN_inference/venv/
+ACGPN_inference/options/__pycache__
+ACGPN_inference/util/__pycache__
+ACGPN_inference/data/__pycache__
+ACGPN_inference/runs/G1G2
+ACGPN_inference/models/__pycache__

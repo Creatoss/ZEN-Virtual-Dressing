@@ -1,0 +1,8 @@
+
+ipdb
+matplotlib
+numpy
+tensorboardX
+opencv-python
+torch
+torchvision
