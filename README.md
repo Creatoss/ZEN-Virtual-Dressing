@@ -1,5 +1,5 @@
 ## Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content, 
-
+This repository contains the code for the 'Zen and IEEE Tunisia Section' project, developed as part of the TSYP 12 ,  It includes all relevant files and documentation to understand and replicate the project's goals and outcomes. The code is thoroughly commented to ensure it is easily understandable
 
 **Notably, virtual try-on is a difficult research topic, and our solution is of course not perfect. 
 
